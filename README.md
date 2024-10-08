@@ -81,6 +81,14 @@ mache Screenshots von deinen Befehlen, mache regelmäßig log Ausgaben
 und gebe sie gemeinsam mit dem Link zu deinem Repo in Teams ab
 
 
+### Hilfreiche Befehle
+
+	•	git stash: Speichert unvollständige Änderungen temporär.
+	•	git stash list: Zeigt alle Stashes an.
+	•	git stash apply: Wendet den letzten Stash an, ohne ihn zu löschen.
+	•	git stash pop: Wendet den letzten Stash an und löscht ihn danach.
+
+
 
 
 
